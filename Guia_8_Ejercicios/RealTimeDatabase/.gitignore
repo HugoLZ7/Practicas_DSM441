@@ -1,0 +1,15 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+app/build/
+app/release/
+# Config privada de Firebase (cada quien usa la suya)
+app/google-services.json
+*.jks
+*.keystore
